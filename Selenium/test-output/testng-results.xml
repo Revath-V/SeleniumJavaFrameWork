@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-01T13:21:48 IST" name="Default suite" finished-at="2022-09-01T13:21:56 IST" duration-ms="7541">
+    <groups>
+    </groups>
+    <test started-at="2022-09-01T13:21:48 IST" name="Default test" finished-at="2022-09-01T13:21:56 IST" duration-ms="7541">
+      <class name="Headless.Headless">
+        <test-method signature="test()[pri:0, instance:Headless.Headless@5a45133e]" started-at="2022-09-01T13:21:48 IST" name="test" finished-at="2022-09-01T13:21:56 IST" duration-ms="7495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Headless.Headless -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
